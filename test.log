@@ -1,0 +1,36 @@
+2022-07-10 12:50:27,506:DEBUG:__main__:Add: 20 + 5 = 25
+2022-07-10 12:50:27,506:DEBUG:__main__:Subtract: 20 - 5 = 15
+2022-07-10 12:50:27,506:DEBUG:__main__:Multiply: 20 * 5 = 100
+2022-07-10 12:50:27,506:DEBUG:__main__:Add: 20 / 5 = 4.0
+2022-07-10 12:52:36,905:DEBUG:__main__:Add: 20 + 0 = 20
+2022-07-10 12:52:36,905:DEBUG:__main__:Subtract: 20 - 0 = 20
+2022-07-10 12:52:36,906:DEBUG:__main__:Multiply: 20 * 0 = 0
+2022-07-10 12:52:36,906:ERROR:__main__:Tried to divide by zero
+2022-07-10 12:52:36,906:DEBUG:__main__:Add: 20 / 0 = None
+2022-07-10 12:53:32,308:DEBUG:__main__:Add: 20 + 0 = 20
+2022-07-10 12:53:32,308:DEBUG:__main__:Subtract: 20 - 0 = 20
+2022-07-10 12:53:32,308:DEBUG:__main__:Multiply: 20 * 0 = 0
+2022-07-10 12:53:32,308:ERROR:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:\Users\mumkamleka\OneDrive - Valmet\Documents\PyCharmProjects\Ineuron\Logging.py", line 41, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2022-07-10 12:53:32,308:DEBUG:__main__:Add: 20 / 0 = None
+2022-07-10 12:55:29,021:DEBUG:__main__:Add: 20 + 0 = 20
+2022-07-10 12:55:29,021:DEBUG:__main__:Subtract: 20 - 0 = 20
+2022-07-10 12:55:29,021:DEBUG:__main__:Multiply: 20 * 0 = 0
+2022-07-10 12:55:29,021:ERROR:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:\Users\mumkamleka\OneDrive - Valmet\Documents\PyCharmProjects\Ineuron\Logging.py", line 44, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2022-07-10 12:55:29,021:DEBUG:__main__:Add: 20 / 0 = None
+2022-07-10 13:08:23,316:DEBUG:__main__:Add: 20 + 0 = 20
+2022-07-10 13:08:23,317:DEBUG:__main__:Subtract: 20 - 0 = 20
+2022-07-10 13:08:23,317:DEBUG:__main__:Multiply: 20 * 0 = 0
+2022-07-10 13:08:23,317:ERROR:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:\Users\mumkamleka\OneDrive - Valmet\Documents\PyCharmProjects\Ineuron\Logging.py", line 45, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2022-07-10 13:08:23,317:DEBUG:__main__:Add: 20 / 0 = None
